@@ -1,2 +1,2 @@
 # FlightBookingAPP
-Flight Booking APP
+Flight Booking reservation system
